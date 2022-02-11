@@ -1,0 +1,3 @@
+function clearCanvas(){
+    background("white");
+}
